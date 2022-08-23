@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+My name's Lívia and I'm a publicist learning web development
 
 
-- 🔭 I’m currently working with layout and editing of online newspapers using HTML and CSS
+
+- 🔭 I’m currently working with layout and edition of online newspapers using HTML and CSS
 - 🌱 I’m studying JS, HTML, CSS, REACT and ANGULAR
 - 📫 How to reach me: liviamelo97@hotmail.com
 - 😄 Pronouns: she/her
