@@ -3,12 +3,12 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m studying JS, HTML, CSS, REACT and ANGULAR
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: liviamelo97@hotmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!--GIF-->
@@ -16,7 +16,7 @@
 <img align="right" src="https://c.tenor.com/HJTXKCtOYwgAAAAC/perfect-popcorn.gif" width="350" height="200"/>
 <div>
 
-### Estou aprendendo
+### I'm learning
 
 <!--HTML-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
