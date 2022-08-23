@@ -13,7 +13,7 @@
 
 <!--GIF-->
 <div>
-<img align="right" src="https://tenor.com/bWoFt.gif" width="350" height="200"/>
+<img align="right" src="https://c.tenor.com/HJTXKCtOYwgAAAAC/perfect-popcorn.gif" width="350" height="200"/>
 <div>
 
 ### Estou aprendendo
