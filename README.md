@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Lívia and I'm a publicist learning web development
+My name is Lívia and I'm a programmer learning front end web development
 
 
 
