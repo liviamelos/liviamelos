@@ -2,14 +2,11 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working with layout and editing of online newspapers using HTML and CSS
 - 🌱 I’m studying JS, HTML, CSS, REACT and ANGULAR
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: liviamelo97@hotmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I've lived for two months in Ireland and I love watching anime
 
 <!--GIF-->
 <div>
