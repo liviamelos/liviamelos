@@ -5,7 +5,6 @@ My name is Lívia and I'm learning Web Development | Front end
 
 <ul>
  <li>🔭 I’m currently working with layout and edition of online newspapers using HTML and CSS</li>
- <li>🌱 I’m studying JS, HTML, CSS, REACT and ANGULAR</li>
  <li>🌎 Recife/PE - Brazil</li>
  <li>📫 How to reach me: liviamelo97@hotmail.com</li>
  <li>😄 Pronouns: she/her</li>
