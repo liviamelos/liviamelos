@@ -5,11 +5,11 @@ My name is Lívia and I'm a programmer learning Web Development | Front end
 
 <ul>
  <li>🔭 I’m currently working with layout and edition of online newspapers using HTML and CSS</li>
-- 🌱 I’m studying JS, HTML, CSS, REACT and ANGULAR
-- 🌎 Recife/PE - Brazil.
-- 📫 How to reach me: liviamelo97@hotmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I've lived for two months in Ireland and I love watching anime
+ <li>🌱 I’m studying JS, HTML, CSS, REACT and ANGULAR</li>
+ <li>🌎 Recife/PE - Brazil</li>
+ <li>📫 How to reach me: liviamelo97@hotmail.com</li>
+ <li>😄 Pronouns: she/her</li>
+ <li>⚡ Fun fact: I've lived for two months in Ireland and I love watching anime</li>
 
 <!--GIF-->
 <div>
