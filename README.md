@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lívia and I'm learning Web Development | Front end
+My name is Lívia and I'm learning Web Development | Fullstack
 
 
 <ul>
