@@ -50,6 +50,9 @@ My name is Lívia and I'm learning Web Development | Fullstack
 <!--MARKETING CLOUD SALESFORCE-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="40" height="40"/>
  
+<!--VSCODE-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+ 
 <br>
 <br>
  
