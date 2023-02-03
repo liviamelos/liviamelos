@@ -8,7 +8,7 @@ My name is Lívia and I'm a web development student | Fullstack
  <li>🌎 Recife/PE - Brazil</li>
  <li>📫 How to reach me: liviamelo97@hotmail.com</li>
  <li>😄 Pronouns: she/her</li>
- <li>⚡ Fun fact: I've lived for two months in Ireland and I love watching anime</li>
+ <li>⚡ Fun fact: I've lived for two months in Ireland and and I already worked with advertising, marketing and design</li>
 
 <!--GIF-->
 <div>
