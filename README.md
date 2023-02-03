@@ -4,7 +4,6 @@ My name is Lívia and I'm a web development student | Fullstack
 
 
 <ul>
- <li>🔭 I’m currently working with layout and edition of online newspapers using HTML and CSS</li>
  <li>🌎 Recife/PE - Brazil</li>
  <li>📫 How to reach me: liviamelo97@hotmail.com</li>
  <li>😄 Pronouns: she/her</li>
