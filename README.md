@@ -2,13 +2,15 @@
 
 My name is Lívia and I'm a web development student | Fullstack
 
-
-<ul>
- <li>🌎 Recife/PE - Brazil</li>
- <li>📫 How to reach me: liviamelo97@hotmail.com</li>
- <li>😄 Pronouns: she/her</li>
- <li>⚡ Fun fact: I've lived for two months in Ireland and and I already worked with advertising, marketing and design</li>
-
+<div>
+  <ul>
+    <li>🌎 Recife/PE - Brazil</li>
+    <li>📫 How to reach me: liviamelo97@hotmail.com</li>
+    <li>😄 Pronouns: she/her</li>
+    <li>⚡ Fun fact: I've lived for two months in Ireland and and I already worked with advertising, marketing and design</li>
+  </ul>
+ </div>
+ 
 <!--GIF-->
 <div>
 <img align="right" src="https://c.tenor.com/HJTXKCtOYwgAAAAC/perfect-popcorn.gif" width="350" height="200"/>
