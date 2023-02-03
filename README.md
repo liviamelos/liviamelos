@@ -57,7 +57,7 @@ My name is Lívia and I'm a web development student | Fullstack
  
 <div>
   <a href="https://github.com/liviamelos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviamelos&layout=compact&langs_count=7&theme=dracula"></a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviamelos&layout=compact&langs_count=7&theme=dark"></a>
 </div>
 
 ![Snake animation](https://github.com/liviamelos/liviamelos/blob/output/github-contribution-grid-snake.svg)
